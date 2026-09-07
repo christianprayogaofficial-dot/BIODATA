@@ -3,3 +3,4 @@ Nim : 255314059
 Fakultas : Sains dan Teknologi
 Prodi : Informatika
 Hobi : Futsal
+Asal : Lampung
